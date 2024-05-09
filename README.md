@@ -1,4 +1,4 @@
-## Hello, I'm Kwinty :wave:
+## Hello, I'm Titeuf :wave:
 
 - :leaves: I'm 22 years old
 - :shamrock: My current project is [KwintyVerify](https://discord.com/api/oauth2/authorize?client_id=1015307403593531433&permissions=8&scope=bot%20applications.commands)
